@@ -29,7 +29,7 @@ class { 'ntp':
 
 ## Usage
 
-All parameters for the ntp module are contained within the main `ntp` class, so for any function of the module, set the options you want. See the common usages below for examples.
+All parameters for the ntp module are contained within the main `ntp` class, so for any function of the module, set the options you want. See the common usages below for examples. Small change.
 
 ### Install and enable NTP
 
